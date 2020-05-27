@@ -6,7 +6,6 @@
 6) bluez
 7) bluetooth
 8) service start bluetooth
-9) service start bluetooth
 10) service bluetooth restart
 11) systemctl restart bluetooth
 12) service bluetooth status
@@ -22,7 +21,7 @@
 27) smplayer
 28) systemctl restart bluetooth
 29) firefox
-30) service bluetooth start
+ 
 31) apt-get install gnome
 32) wine
 33) apt-get install wine32
@@ -184,9 +183,6 @@
   132  modinfo ashmem_linux
   133  anbox check-features
   134  apt-get purge anbox
-  135  apt-get purge snap
-  136  apt-get update firefox
-  137  apt-get install firefox
   138  apt-get install firefox-esr
   139  apt-get install codelobster
   140  apt-get install geany
@@ -361,19 +357,7 @@
   309  umount /dev/mmcblk0p2
   310  apt-get install freetuxtv
   311  apt-get install gimp
-  312  apt-get install tv
-  313  apt-get install tvtime
-  314  apt-get install oreotv
-  315  pt-get upgrade
-  316  apt-get upgrade
-  317  apt-get autoremove
-  318  SWHUTDOWN
   319  shutdown
-  320  service bluetooth start'
-  321  service bluetooth start
-  322  service bluetooth start
-  323  service kdeconnect start
-  324  service bluetooth start
   325  man bash
   326  apt-get install burp
   327  burp
@@ -395,13 +379,6 @@
   343  apt-get autoremove
   344  service apache2 srart
   345  service apache2 start
-  346  cd /var/www/dvwa
-  347  cd /var/www/dvwa/
-  348  cd /var/www/html
-  349  ls
-  350  chmod 777
-  351  chmod 777 dvwa
-  352  ls
   353  chmod -R 777 dvwa
   354  chmod -R 777 dvwa/
   355  service mysql start
@@ -421,10 +398,6 @@
   369  sudo apt-get update
   370  sudo apt-get install mysql-server
   371  apt-get remove mysql
-  372  apt-get remove mysqlserver
-  373  apt-get remove mysql-server
-  374  apt-get purge mysql-server
-  375  apt-get install mysql-server
   376  apt-get install mariadb
   377  apt-get install mariadb-server
   378  service mysql start
@@ -662,10 +635,6 @@
   133  anbox check-features
   134  apt-get purge anbox
   135  apt-get purge snap
-  136  apt-get update firefox
-  137  apt-get install firefox
-  138  apt-get install firefox-esr
-  139  apt-get install codelobster
   140  apt-get install geany
   141  GEANY
   142  geany
@@ -1215,7 +1184,14 @@ plasma-browser
   489  surf
   490  apt-get purge surf
   491  install kiosk
-  492  apt search s
+  492  apt search sapt-get update firefox
+639
+  137  apt-get install firefox
+640
+  138  apt-get install firefox-esr
+641
+  139  apt-get install codelobster
+
   493  apt-get install iridium
   494  apt-get install iridium-browser
   495  apt-get install tor-browser
